@@ -334,7 +334,7 @@ img {
   height: auto; }
 
 .header {
-  background-color: #a21c1c;
+  background-color: rgba(151, 16, 16, 0.781);
   height: 100px;
   width: 100px; }
 
